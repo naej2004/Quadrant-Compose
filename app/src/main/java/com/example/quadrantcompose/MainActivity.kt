@@ -105,7 +105,7 @@ fun QuadrantTemplate(modifier: Modifier = Modifier) {
             Column(
                 modifier = Modifier
                     .weight(1f)
-                    .background(Color(0xFFF6EDFF)) // Couleur 1
+                    .background(Color(0xFFF6EDFF))
                     .padding(16.dp)
                     .fillMaxSize(),
                 verticalArrangement = Arrangement.Center,
